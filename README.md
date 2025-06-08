@@ -13,8 +13,7 @@
 6. [Folosire](#folosire)  
 7. [Provocări & soluții](#provocări--soluții)  
 8. [Galerie foto](#galerie-foto)
-9. [Contribuții](#contribuții)
-10. [Resurse](#resurse) 
+9. [Resurse](#resurse) 
 
 ---
 
@@ -159,14 +158,6 @@ Power-bank USB ──► VBUS(pin40)           Battery
 <img src="images/4f915db9-30ee-446d-9940-93582449b4e9.jpeg" alt="Top view" width="300"/>  
 <img src="images/ed571199-8305-4df4-b73e-aef165a4ffbe.jpeg" alt="Side view" width="300"/>
 </center>
-
----
-
-## Contribuții
-
-Macovei Razvan: Partea de hardware, model 3D, implementarea logică a circuitului și asamblarea mașinii.  
-Chiriac Mihai: Partea de software și îmbinarea celor două ramuri Hard-Soft.  
-În echipă: Documentația.
 
 ---
 
